@@ -1,4 +1,4 @@
-# Practical Assignments for the Network Science Course
+# Practical Assignments for Network Science
 
 This repository contains practical assignments for courses "Network Science" and "Structural Analysis and Visualization of Networks" at HSE university. All assignments are presented as Jupyter notebooks, that can be done by writing code instead of the line 
 ```
@@ -22,8 +22,16 @@ Topics:
 13. [Node Embedding](assignment_node_embedding/assignment.ipynb)
 <<<<<<< HEAD
 14. [Graph Neural Networks](assignment_graph_neural_networks/assignment.ipynb)
+<<<<<<< HEAD
 =======
 >>>>>>> 4f9f28bacf02372ee92f291cc74df8155b564e91
+=======
+15. [Influence Propagation and Agent Based Models](assignment_influence_agents/assignment.ipynb)
+
+Here are also descriptions of some competitions held among students to solve practical tasks on graphs:
+1. [Network Generation](competition_network_generation/competition.ipynb)
+2. [Link Prediction](competition_link_prediction/competition.ipynb)
+>>>>>>> c896ac68b4169806d6853a3504914f11be70f455
 
 Lecture materials: http://leonidzhukov.net/hse/2021/networkscience/
 
