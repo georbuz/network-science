@@ -23,15 +23,24 @@ Topics:
 <<<<<<< HEAD
 14. [Graph Neural Networks](assignment_graph_neural_networks/assignment.ipynb)
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4f9f28bacf02372ee92f291cc74df8155b564e91
 =======
 15. [Influence Propagation and Agent Based Models](assignment_influence_agents/assignment.ipynb)
+=======
+15. [Influence Propagation](assignment_influence_agents/assignment.ipynb)
+16. [Knowledge Graph Embedding](assignment_knowledge_graph_embeddings/assignment.ipynb)
+>>>>>>> 44a5a72fa6ab3b2cd5d6d6263fb4c960fe8947f6
 
 Here are also descriptions of some competitions held among students to solve practical tasks on graphs:
 1. [Network Generation](competition_network_generation/competition.ipynb)
 2. [Link Prediction](competition_link_prediction/competition.ipynb)
+<<<<<<< HEAD
 >>>>>>> c896ac68b4169806d6853a3504914f11be70f455
+=======
+3. [Marketing Campaign](competition_marketing_campaign/competition.ipynb)
+>>>>>>> 44a5a72fa6ab3b2cd5d6d6263fb4c960fe8947f6
 
 Lecture materials: http://leonidzhukov.net/hse/2021/networkscience/
 
